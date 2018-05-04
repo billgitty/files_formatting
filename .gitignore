@@ -1,0 +1,5 @@
+venv/
+main.py
+filenamejson.json
+.idea/
+.DS_Store
